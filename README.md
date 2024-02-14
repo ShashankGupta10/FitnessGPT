@@ -55,7 +55,7 @@ https://fitness-gpt.netlify.app/
 
 You can watch the demo video below:
 
-<iframe width="560" height="315" src="https://www.loom.com/embed/8bdedd0dab8d4d56b71cbdddd85619d3" frameborder="0" allowfullscreen></iframe>
+[Watch Demo Video](https://www.loom.com/share/8bdedd0dab8d4d56b71cbdddd85619d3)
 
 ## Conclusion
 
