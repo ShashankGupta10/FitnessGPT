@@ -1,0 +1,8 @@
+flask
+flask_cors
+langchain
+faiss-cpu
+cohere
+PyPDF2
+python-dotenv
+pandas
