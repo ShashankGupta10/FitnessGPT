@@ -47,10 +47,17 @@ Are you looking to kickstart your fitness routine but don't know where to begin?
 7. Start the Flask app on the server.
 8. Set up a domain name and configure DNS settings to point to your server's IP address.
 
-## Conclusion
+## Deployment
 
-This concludes the setup and deployment process for the React and Flask web app with LangChain integration. Ensure to follow security best practices during deployment and consider using SSL certificates for secure communication.
+https://fitness-gpt.netlify.app/
 
 ## Demo Video
 
-https://www.loom.com/share/8bdedd0dab8d4d56b71cbdddd85619d3
+You can watch the demo video below:
+
+<iframe width="560" height="315" src="https://www.loom.com/embed/8bdedd0dab8d4d56b71cbdddd85619d3" frameborder="0" allowfullscreen></iframe>
+
+## Conclusion
+
+This concludes the setup and deployment process for the React and Flask web app with LangChain integration. Ensure to follow security best practices during deployment and consider using SSL certificates for secure communication.
+munication.
