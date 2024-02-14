@@ -6,3 +6,4 @@ cohere
 PyPDF2
 python-dotenv
 pandas
+gunicorn
