@@ -50,3 +50,7 @@ Are you looking to kickstart your fitness routine but don't know where to begin?
 ## Conclusion
 
 This concludes the setup and deployment process for the React and Flask web app with LangChain integration. Ensure to follow security best practices during deployment and consider using SSL certificates for secure communication.
+
+## Demo Video
+
+https://www.loom.com/share/8bdedd0dab8d4d56b71cbdddd85619d3
